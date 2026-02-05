@@ -47,6 +47,13 @@ export default function Random() {
             wykonuję też grafiki komputerowe, ilustracje, logo.<br />
             Swoje prace wykonuję z pasją i sercem.<br /><br />
             Zapraszam do kontaktu!
+<br></br><br></br>
+<div className="mt-5 text-lg">
+  <p>Email: <a href="mailto:pawlok250@wp.pl" className="text-green-500 hover:underline">pawlok250@wp.pl</a></p>
+  <p>Telefon: <a href="tel:+48724930687" className="text-green-500 hover:underline">+48 724 930 687</a></p>
+</div>
+
+
           </div>
         </div>
 
