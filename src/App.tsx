@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom"
-import Home from "./pages/home"
-import Gallery from "./pages/gallery"
-import Random from "./pages/random"
+import Home from "./pages/Home"
+import Gallery from "./pages/Gallery"
+import Random from "./pages/Random"
 
 export default function App() {
   return (
